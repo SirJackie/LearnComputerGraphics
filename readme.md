@@ -2,7 +2,7 @@
 
 学习图形学时所编写的代码
 
-# 如何配置环境
+# 如何运行这个程序？
 
 1.下载并运行DirectX9.0 SDK安装包（DXSDK_Jun10.exe），由于DXSDK不是开源的，这里就不放文件了，放个网上的链接，侵删：链接: http://pan.baidu.com/s/1gfkqSMZ 密码: r6my
 
