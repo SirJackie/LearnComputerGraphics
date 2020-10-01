@@ -1,8 +1,8 @@
-# FrameBufferOnWindows
+# LearnComputerGraphics
 
-基于DirectX9.0的FrameBuffer实现，可以帮助你在Windows环境下读写显存。
+学习图形学时所编写的代码
 
-# 如何使用
+# 如何配置环境
 
 1.下载并运行DirectX9.0 SDK安装包（DXSDK_Jun10.exe），由于DXSDK不是开源的，这里就不放文件了，放个网上的链接，侵删：链接: http://pan.baidu.com/s/1gfkqSMZ 密码: r6my
 
@@ -26,9 +26,7 @@
 
 ![vs3](./ImagesForReadme/vs3.png)
 
-5.设置完成后就可以使用了，点击画面上方的“本地Windows调试器”进行编译运行。不出所料的话，你应该会看到一个颜色渐变的Demo。在6代i3，纯CPU环境下能稳定在48帧，还算可以（使用PrintScreen键截图时帧数会降低）。
-
-另外，推荐安装Fraps，它能实时查看任何DirectX编写的软件的帧数，并通过Hook实时显示在软件窗口上，就如下图左上角所示。
+5.设置完成后就可以使用了，点击画面上方的“本地Windows调试器”进行编译运行。
 
 ![vs4](./ImagesForReadme/vs4.png)
 
@@ -38,7 +36,7 @@ Enjoy it!
 
 # 关于开源协议
 
-仓库中FrameBufferOnWindows本身，以及通过该程序衍生得产品，如Demo视频，均属于开源软件，遵守GNU通用公共许可证，即GNU GPL。
+仓库中LearnComputerGraphics本身，以及通过该程序衍生得产品，如Demo视频，均属于开源软件，遵守GNU通用公共许可证，即GNU GPL。
 
 GNU GPL协议授予程序接受人以下权利，或称“自由”：
 
